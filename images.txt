@@ -3,7 +3,8 @@ nginx
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 mzz2017/v2raya:latest
-linuxserver/qbittorrent:arm64-latest
+linuxserver/qbittorrent:latest
+80x86/qbittorrent:latest
 jeessy/ddns-go:latest
 linuxserver/firefox:arm64-latest
 
