@@ -4,9 +4,9 @@ nginx
 #xhofe/alist:latest
 mzz2017/v2raya:latest
 linuxserver/qbittorrent:latest
-80x86/qbittorrent:latest
+#80x86/qbittorrent:latest
 jeessy/ddns-go:latest
-linuxserver/firefox:arm64-latest
+#linuxserver/firefox:latest
 
 
 
