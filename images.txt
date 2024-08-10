@@ -14,6 +14,9 @@ linuxserver/firefox:arm64-latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 linuxserver/firefox
+--platform=linux/arm64 80x86/qbittorrent
+
+
 
 #how  use
 # docker pull registry.cn-hangzhou.aliyuncs.com/useful-images/qbittorrent:[镜像版本号]
