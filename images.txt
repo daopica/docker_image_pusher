@@ -5,7 +5,7 @@ nginx
 mzz2017/v2raya:arm64v8-latest
 helloz/qbittorrent:arm64v8-latest
 lscr.io/linuxserver/qbittorrent:arm64v8-latest
-6053537/portainer-ce:arm64v8-latest
+outlovecn/portainer-cn:arm64v8-latest
 jeessy/ddns-go:latest
 #linuxserver/firefox:latest
 
