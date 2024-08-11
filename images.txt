@@ -4,7 +4,7 @@ nginx
 #xhofe/alist:latest
 mzz2017/v2raya:latest
 linuxserver/qbittorrent:latest
-#80x86/qbittorrent:latest
+
 jeessy/ddns-go:latest
 #linuxserver/firefox:latest
 
@@ -14,8 +14,7 @@ jeessy/ddns-go:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 --platform=linux/arm64 linuxserver/firefox
---platform=linux/arm64 80x86/qbittorrent
-
+--platform=linux/arm64 hotio/qbittorrent:latest
 
 
 #how  use
